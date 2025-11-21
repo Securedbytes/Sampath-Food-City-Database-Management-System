@@ -108,7 +108,7 @@ CUSTOMER ──┐
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/sampath-food-city-database.git
+   git clone https://github.com/Securedbytes/sampath-food-city-database.git
    cd sampath-food-city-database
    ```
 
@@ -137,6 +137,7 @@ CUSTOMER ──┐
 ## 💻 Usage
 
 ### Database Access
+
 
 **Administrator Access:**
 - Username: `db_admin`
